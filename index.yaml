@@ -3,12 +3,22 @@ entries:
   pedido-app:
   - apiVersion: v2
     appVersion: 1.0.22-fa01652
-    created: "2025-08-23T09:33:31.555395-05:00"
+    created: "2025-08-23T11:26:11.749481-05:00"
     description: Chart de la app monolito + Postgres + Ingress
-    digest: 43b289d3d02ad189fe77dc88028c9ab9629de4bb9f6076f07e0be0983d01afeb
+    digest: de7fdce9b1fccdff02af8c7ba99e7b0ece1b380aeb13532603fe9378115fc693
+    name: pedido-app
+    type: application
+    urls:
+    - https://ritatrcr.github.io/helm-chart/pedido-app-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.0.22-fa01652
+    created: "2025-08-23T11:26:11.74934-05:00"
+    description: Chart de la app monolito + Postgres + Ingress
+    digest: b7ecbf47c6aaf103ef999f398de45dec3e48aa040340c4d3855f40bbeff58c55
     name: pedido-app
     type: application
     urls:
     - https://ritatrcr.github.io/helm-chart/pedido-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-08-23T09:33:31.554745-05:00"
+generated: "2025-08-23T11:26:11.749136-05:00"
