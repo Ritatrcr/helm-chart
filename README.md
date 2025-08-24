@@ -1,7 +1,8 @@
 # Parcial I — Patrones Arquitectónicos Avanzados
 
+- Rita Trindade, Brandon Merchan
+
 **Proyecto:** Sistema de Gestión de Pedidos  
-**Componentes:** Base de datos (PostgreSQL) · Backend (Spring Boot) · Frontend (React/Angular/Vue)  
 **Entrega Continua:** Helm + ArgoCD
 
 ---
